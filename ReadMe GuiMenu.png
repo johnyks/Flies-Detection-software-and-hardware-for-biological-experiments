@@ -1,0 +1,20 @@
+
+GuiMenu.png, shows the main window of programm, in which there are all the options
+on how to import the video (you can import it as a file or you can 
+take the video instantly from your camera)
+
+The graph, shows the velocity vs Flies, for each fly there is a specific value 
+of velocity. 
+
+Above the graph, you can see the most important parametres like gender, time 
+and mean velocity 
+
+At the right, you can see the plane in wich you can see the video or the file. 
+There are tow scroll bars called Threshold 1 and Threshold 2, with these bars
+you can control the quility of measurments, if something in the lighting of the 
+environment or whatever else, change. Also, there are tow buttons that you can 
+click if you want to label the gender for the current fly.
+
+Final, in menu bar, there are option about how you want to extract your data.
+You can export them as excel file, or as a text file. Also, you can extract 
+groups of data at the same time.
